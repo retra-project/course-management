@@ -1,0 +1,13 @@
+.venv/
+.env/
+__pycache__/
+*.pyc
+Pipfile
+Pipfile.lock
+.DS_Store
+.vscode/
+.idea/
+.pytest_cache/
+.coverage
+.coverage.*
+.coverage.*
